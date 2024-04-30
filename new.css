@@ -67,6 +67,7 @@ position: absolute;
 .header h1 {
   color: #fff;
   font-size: 48px;
+margin-left: 35%;
   
 }
 
@@ -74,14 +75,14 @@ position: absolute;
   width: 50%;
   position: absolute;
   margin-top: 20vh;
-  margin-left: 10%;
+  margin-left: 30%;
 }
 
 .innerheadersecond {
   width: 50%;
   position: absolute;
   margin-top: 20vh;
-  margin-left: 55%;
+  margin-left: 60%;
 }
 
 .innerheaderfirst h1, .innerheadersecond h1 {
