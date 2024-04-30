@@ -60,6 +60,7 @@ flex-direction: column;
 .header {
  width: 100%;
 position: absolute;
+	margin-top: 10%;
 
 
 }
@@ -67,7 +68,7 @@ position: absolute;
 .header h1 {
   color: #fff;
   font-size: 52px;
-margin-top: 10%;
+
 margin-left: 30%;
   
 }
