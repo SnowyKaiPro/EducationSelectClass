@@ -76,16 +76,16 @@ margin-left: 32%;
 
 .innerheaderfirst {
   width: 50%;
-  position: absolute;
-  margin-top: 50vh;
-  margin-left: 30%;
+
+  margin-top: 30vh;
+  margin-left: 45%;
 }
 
 .innerheadersecond {
   width: 50%;
   position: absolute;
-  margin-top: 50vh;
-  margin-left: 60%;
+  margin-top: 30vh;
+  margin-left: 45%;
 }
 
 .innerheaderfirst h1, .innerheadersecond h1 {
